@@ -1,4 +1,4 @@
-# End to End Data-science project_1
+# Data-science project_1
 
 **Company**:#CODTECH IT SOLUTIONS 
 
